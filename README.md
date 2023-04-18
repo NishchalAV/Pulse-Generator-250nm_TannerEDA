@@ -1,5 +1,6 @@
 # Pulse-Generator-using-tanner
-The given Circuit is implented using technology below 250n
+(The given Circuit is implented using technology below 250n)
+
 Given a Pulse Generator block which is implemented in a PLL(Phase locked loop) circuit along with other components (adders, ALU's, Memory units and etc)
 
 Objective:

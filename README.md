@@ -10,5 +10,6 @@ To get the repective delays =
 3) Buffer 2 = 120ps
 4) Buffer 4 = 190ps
 
-Aim : To get a near optimised delay output using a 250n technology constraint and give justification as to why its the best values to get the delay output
+---> To get the above delay output using a 250n technology constraint.
+
 

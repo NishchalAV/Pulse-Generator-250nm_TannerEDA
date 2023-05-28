@@ -32,10 +32,10 @@ Where 'Wp' is the width of pmos and 'Wn' is the width of nmos
 # Observation
 We are able to produce a delay of 85n sec for the inverter block while keeping the rest of the delays to match our objective, Due to 250nm technology constraint we face distortion at the Z output for delays of inverter kept at 70n sec and below
 
-# Delay's obtained from all the cases: (250nm technology)
+# Delay's obtained: (250nm technology)
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/8255d1d1-2ad9-459d-a33d-a6c84c498704)
 
-# Power consumption for all cases: (250nm technology)
+# Power Dissipiated: (250nm technology)
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/695649d3-3a4e-4e58-b6da-5dc545155ae4)
 
 

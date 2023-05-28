@@ -15,6 +15,11 @@ and choose lib.def (open it in notepad) and then choose the respective replaceme
 
 1) Pulse generator DUP_1 is the tuned and final version (case 4 in the report)
 2) Pulse generator DUP_4 has NAND gate without any tuning done to it (Hence we see the drag in rise time in the output (X) waveform) (Case 1,2,3 are based on this design)
+3) AND gates and NAND gates are custom built and can be navigated from the pusle generator schematics only 
+4) Inverter and Buffers are designed seperatly and their schmeatics are named with respect to names used in the pusle generator schematic
+
+# NOTE :
+   The only difference between two Pulse generator files is only the NAND gates width values 
 
 in case of any output delay error, refer the 'W' values from the table:
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/4a1a0b91-e2e4-4340-bea0-de2c8c50a070)

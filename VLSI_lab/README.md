@@ -2,7 +2,8 @@ If error popping as "no library found" follow :
 
 # About saving the file and running it 
 Go to lib.def file and open it in text editor and select all the paths associated with the generic and standard libraries and replace them with respect to your systems generic and standard libraries path
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/f7b526e7-a1ae-409c-a640-98f6a8f19942)
+
+![lib](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/bf85b1f7-136e-4cc6-ba7c-1042e33cfc7d)
 
 Replace the above highlighted paths with your generic and standard libraries (can be found from the lib.def of your personal files)
 
@@ -22,5 +23,6 @@ and choose lib.def (open it in notepad) and then choose the respective replaceme
    The only difference between two Pulse generator files is only the NAND gates width values 
 
 in case of any output delay error, refer the 'W' values from the table:
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/4a1a0b91-e2e4-4340-bea0-de2c8c50a070)
+![width_values](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/aa3f0deb-f0e9-4e7f-8b83-8e8194fe59a2)
+
 

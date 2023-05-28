@@ -13,3 +13,4 @@ To get the repective delays =
 ---> To get the above delay output using a 250n technology constraint.
 
 
+![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/931137ce-08f9-48e8-b0d3-26967f5f619e)

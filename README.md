@@ -1,11 +1,11 @@
 # Pulse-Generator-using-tanner
 
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/4c1d47d6-d571-474f-802d-5d8f2dcd36df)
+![main_circuit](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/038a7510-a14e-4e13-984e-f5a43bb8c310)
 
 The given Circuit is implented using 45nm technology.
 
 # Output Pulse Shape and Circuit Diagram
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/035313f7-d24b-44ea-b040-b5d2aff04eea)
+![pulse_generator_circuit](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/be640a49-f14c-4b3b-b73c-efaf0d205d8e)
 
 # Pulse delays (using 45nm technology)
 1) Buffer 1 (T1) = 120ps
@@ -19,7 +19,7 @@ The given Circuit is implented using 45nm technology.
 
 Using the same circuit design we try to get the delays of T1,T2,T3,T4 as close as possible to the 45nm technology.
 
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/3bf033ab-4a40-4501-9bab-803540911099)
+![Tanner_pulse_generator_sch](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/1b4f867c-29ad-4a84-a20d-7839f9dc6ceb)
 
 By changing the W vlaues of nmos and pmos we can change the resistance value of the transistor and by playing around with the resistance values we can genereate the required delays.
 (This is due to the relation of holes and electrons and their mobility properties based on resistance values)
@@ -33,11 +33,10 @@ Where 'Wp' is the width of pmos and 'Wn' is the width of nmos
 We are able to produce a delay of 85n sec for the inverter block while keeping the rest of the delays to match our objective, Due to 250nm technology constraint we face distortion at the Z output for delays of inverter kept at 70n sec and below
 
 # Delay's obtained: (250nm technology)
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/8255d1d1-2ad9-459d-a33d-a6c84c498704)
+![delay_values](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/690b4711-1e6b-4236-ab6d-dcf9c423258d)
 
 # Power Dissipiated: (250nm technology)
-![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/695649d3-3a4e-4e58-b6da-5dc545155ae4)
-
+![power_values](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/54310286-38c6-446f-ab66-81076f3b4956)
 
 
 # Citation

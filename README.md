@@ -39,6 +39,7 @@ We are able to produce a delay of 85n sec for the inverter block while keeping t
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/695649d3-3a4e-4e58-b6da-5dc545155ae4)
 
 
+
 # Citation
 
 M. -H. Chou and S. -I. Liu, "A 2.4-GHz Area-Efficient and Fast-Locking Subharmonically Injection-Locked Type-I PLL," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 11, pp. 2474-2478, Nov. 2020, doi: 10.1109/TVLSI.2020.3014885.Abstract: A 2.4-GHz area-efficient and fast-locking subharmonically injection-locked type-I phase-locked loop (SIL-TPLL) is presented. A timing-adjusted phase detector (TPD) is proposed to calibrate the injection timing. This TPD also reduces the settling time of the SIL-TPLL. The loop capacitance of the type-I PLL is tiny to save the area. This SIL-TPLL is fabricated in 45-nm CMOS technology. Its active area is 0.013 mm2. The power consumption is 5.6 mW at 2.4 GHz for a supply of 0.87 V. The integrated jitter of the SIL-TPLL over 1 kHz to 40 MHz is 0.91 ps.URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9170826&isnumber=9237078

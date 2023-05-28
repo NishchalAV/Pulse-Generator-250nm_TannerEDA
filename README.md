@@ -7,7 +7,7 @@ The given Circuit is implented using 45nm technology.
 # Output Pulse Shape and Circuit Diagram
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/035313f7-d24b-44ea-b040-b5d2aff04eea)
 
-# Pulse delays
+# Pulse delays (using 45nm technology)
 1) Buffer 1 (T1) = 120ps
 2) Inverter (T2)= 40ps
 3) Buffer 2 (T3)= 120ps
@@ -32,8 +32,12 @@ Where 'Wp' is the width of pmos and 'Wn' is the width of nmos
 # Observation
 We are able to produce a delay of 85n sec for the inverter block while keeping the rest of the delays to match our objective, Due to 250nm technology constraint we face distortion at the Z output for delays of inverter kept at 70n sec and below
 
-Delay's obtained from all the cases:
+# Delay's obtained from all the cases: (250nm technology)
 ![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/8255d1d1-2ad9-459d-a33d-a6c84c498704)
+
+# Power consumption for all cases: (250nm technology)
+![image](https://github.com/NishchalAV/Pulse-Generator-using-tanner/assets/94071455/695649d3-3a4e-4e58-b6da-5dc545155ae4)
+
 
 # Citation
 

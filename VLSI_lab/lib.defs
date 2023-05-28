@@ -1,0 +1,24 @@
+DEFINE VLSI_lab VLSI_lab
+ASSIGN VLSI_lab libMode shared
+DEFINE Generic_250nm_AnalogLib ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_AnalogLib
+ASSIGN Generic_250nm_AnalogLib libMode shared
+DEFINE Generic_250nm_Devices ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE Generic_250nm_IO_Pads ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_IO_Pads
+ASSIGN Generic_250nm_IO_Pads libMode shared
+DEFINE Generic_250nm_LogicGates ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Generic_250nm\Generic_250nm_LogicGates
+ASSIGN Generic_250nm_LogicGates libMode shared
+DEFINE Devices ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\Devices
+ASSIGN Devices libMode shared
+DEFINE Misc ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\Misc
+ASSIGN Misc libMode shared
+DEFINE SPICE_Commands ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\SPICE_Commands
+ASSIGN SPICE_Commands libMode shared
+DEFINE SPICE_Measure ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\SPICE_Measure
+ASSIGN SPICE_Measure libMode shared
+DEFINE SPICE_Plot ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\SPICE_Plot
+ASSIGN SPICE_Plot libMode shared
+DEFINE SPICE_Sources ..\..\Documents\TannerEDA\TannerTools_v2019.2\Process\Standard_Libraries\SPICE_Sources
+ASSIGN SPICE_Sources libMode shared
+DEFINE NAND_layout VLSI_lab\NAND_layout
+ASSIGN NAND_layout libMode shared

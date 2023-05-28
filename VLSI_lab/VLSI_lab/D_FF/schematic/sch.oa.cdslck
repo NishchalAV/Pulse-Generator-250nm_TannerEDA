@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nishc
+HostName                       ArabuHomeHP360
+ProcessIdentifier              50828
+ProcessCreationTime_UTC        1679034315
+ProcessCreationTime_Readable   Fri Mar 17 11:55:15 2023 India Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\nishc\Desktop\VLSI_lab\VLSI_lab\D_FF\schematic\sch.oa.cdslck
+TimeEditLocked                 Fri Mar 17 12:07:33 2023 India Standard Time

@@ -23,6 +23,6 @@ and choose lib.def (open it in notepad) and then choose the respective replaceme
    The only difference between two Pulse generator files is only the NAND gates width values 
 
 in case of any output delay error, refer the 'W' values from the table:
-![width_values](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/aa3f0deb-f0e9-4e7f-8b83-8e8194fe59a2)
+![width_values](https://github.com/NishchalAV/Pulse-Generator-250nm_TannerEDA/assets/94071455/d79cedbe-ab97-4f28-b5b9-405240d46ccf)
 
 
